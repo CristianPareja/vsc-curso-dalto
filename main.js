@@ -1,3 +1,2 @@
 
-<tittle>My App</title>
-<script src="app.js"></script>  
+console.log('que mrias papa');
